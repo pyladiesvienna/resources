@@ -8,6 +8,10 @@ To get you acquainted with the language and let you try it out without having to
 [PythonMonk](https://pythonmonk.com)  
 [Codecademy Python Track](http://www.codecademy.com/tracks/python)  
 
+#### Closed Environments / Short, fun exercises (more advanced)
+Once you've gotten the hang of Python a little and want to practice
+[Coding Bat](http://codingbat.com/python)  
+
 #### Miscellaneous
 Fun stuff that doesn't really fit anywhere else..  
 [Python Tutor](http://pythontutor.com/visualize.html) - lets you visualize and execute your code line by line. Great for debugging and to see how small programs work.  
