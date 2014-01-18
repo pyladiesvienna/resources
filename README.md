@@ -10,7 +10,7 @@ To get you acquainted with the language and let you try it out without having to
 [Check iO](http://www.checkio.org)  
 
 #### Closed Environments / Short, fun exercises (more advanced)
-Once you've gotten the hang of Python a little and want to practice
+Once you've gotten the hang of Python a little and want to practice  
 [Coding Bat](http://codingbat.com/python)  
 
 #### Miscellaneous
